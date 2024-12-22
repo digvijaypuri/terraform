@@ -1,3 +1,4 @@
+**Terraform**
 Terraform is an open-source **Infrastructure as Code (IaC)** tool developed by HashiCorp. It allows you to define, provision, and manage infrastructure using declarative configuration files.
 
 **Key Features of Terraform**
